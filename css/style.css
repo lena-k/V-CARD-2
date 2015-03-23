@@ -131,7 +131,7 @@ nav .nav-contact{background-position:-256px -5px;}
 #sec-portfolio ul.portfolio-slide li figure a,.portfoliodetail #content ul.portfolio-slide li figure a{margin-left:0 !important;}
 #sec-portfolio .portfolio-slide li figure{position:relative;}
 #sec-portfolio #choose{margin-bottom:20px;}
-#portfoliodetail-text{width:380px;}
+#portfoliodetail-text{width:342px; }
 #portfoliodetail-text ul li{list-style-image:url(../images/bg-arrow.png); margin:0; padding:0;}
 #portfoliodetail-text p{margin:10px 0;}
 .portfoliodetail .flexslider-detail{width:376px;}
